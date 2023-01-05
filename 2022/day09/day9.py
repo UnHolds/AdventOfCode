@@ -1,5 +1,3 @@
-import math
-
 
 def simulate(numKnots):
     with open('input.txt') as f:
